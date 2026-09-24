@@ -73,7 +73,7 @@ if (isset($_GET['logout'])) {
         </style>
     </head>
     <body style="font-family: sans-serif;">
-        <h1>Main Menu</h1>
+        <h1 style="color: #17324d;">Main Menu</h1>
         
         <?php
         if (isset($_SESSION["error"])) {
