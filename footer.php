@@ -19,7 +19,7 @@
             box-sizing: border-box;
         }
 
-        p {
+        footer p {
             color: white;
         }
     </style>
